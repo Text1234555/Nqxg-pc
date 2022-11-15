@@ -1,0 +1,56 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+body {
+  line-height: 1.5;
+}
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+input,
+button,
+textarea,
+select {
+  outline: none;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+html{
+    margin-left: 275px;
+    margin-right:565px;
+    background-image: url("https://cdn.sforum.vn/sforum/wp-content/uploads/2020/02/MetallicBlackByArthur1992aS-Polygon-wallpaper-desktop-1536x864-1.png");
+    color:white;
+}
+.title{
+    text-align:center;
+    font-size:35px;
+}
+.Gthieu h1{
+    font-size:25px;
+    font-style: bold;
+}.clip h1{
+    font-size:25px;
+    font-style: bold; 
+}
+.cuoi h1 {
+    font-size:25px;
+}
